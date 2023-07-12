@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//Ben Fortuna//iCal4j 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230711T082054Z
+DTSTART;TZID=Etc/UTC:20230713T010000
+DTEND;TZID=Etc/UTC:20230714T130000
+SUMMARY:DEMO - 2023 CitiDirect® Webinar Series – Session 2
+LOCATION:https://citi.zoom.us/j/4890217813?pwd=Qk1Fb3VUWGlVanFuQlNMMHRtSW
+ Rjdz09
+UID:20230711T082054Z-iCal4j@sd-cbdf-ddbc.nam.nsroot.net
+X-ALT-DESC;FMTTYPE=text/html:<p>In this session\, we will be featuring a 
+ demonstration of new functionalities in addition to highlights of key fe
+ atures needed for day-to-day business practices. We will also be focusin
+ g on the latest updates and innovations made to your CitiDirect&reg\; ex
+ perience. During this webinar\, we will also offer a live Q&amp\;A oppor
+ tunity\, so please join us to ask any questions you may have. Update.</p
+ >
+END:VEVENT
+END:VCALENDAR
